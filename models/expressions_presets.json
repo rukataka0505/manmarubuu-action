@@ -1,0 +1,10 @@
+{
+  "Sleep":   ["Face_Eyes_Sleep", "Face_Mouth_Default"],
+  "Happy":   ["Face_Eyes_Happy", "Face_Mouth_Happy", "Face_Blush_Hatched"],
+  "Damage":  ["Face_Eyes_Damage", "Face_Mouth_Wavy", "Face_Blush_Strong", "Face_Tears_Damage"],
+  "Pien":    ["Face_Eyes_Pien", "Face_Brow_Pien", "Face_Mouth_Sad", "Face_Blush_Warm", "Face_Tears_Pien"],
+  "Ganbaru": ["Face_Eyes_Ganbaru", "Face_Brow_Ganbaru", "Face_Mouth_Omega"],
+  "Panic":   ["Face_Eyes_Panic", "Face_Mouth_Surprise", "Face_Blush_Hatched", "Face_Sweat_Panic"],
+  "Pout":    ["Face_Eyes_Pout", "Face_Mouth_Sad", "Face_Cheeks_Puff", "Face_Blush_Puff"],
+  "Fever":   ["Face_Eyes_Happy", "Face_Mouth_Fever", "Face_Blush_Strong", "Face_Sparkles_Fever"]
+}

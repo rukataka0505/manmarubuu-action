@@ -1,0 +1,8 @@
+{
+  "hero": "/models/manmarubuu_animated.glb",
+  "heroExpressions": "/models/expressions_presets.json",
+  "boss": "/models/ai/boss_king.glb",
+  "enemySlime": null,
+  "enemyTank": "/models/ai/windup_tank.glb",
+  "enemyBalloon": "/models/ai/propeller_balloon.glb"
+}

@@ -1,0 +1,29 @@
+{
+  "bgm": {
+    "title": { "file": "/audio/bgm_title.mp3", "volume": 0.42, "loop": true, "playbackRate": 1.0 },
+    "explore": { "file": "/audio/bgm_explore.mp3", "volume": 0.42, "loop": true, "playbackRate": 1.0 },
+    "fever": { "file": "/audio/bgm_fever.mp3", "volume": 0.18, "loop": true, "playbackRate": 1.12 },
+    "boss": { "file": "/audio/bgm_boss.mp3", "volume": 0.46, "loop": true, "playbackRate": 1.0 },
+    "victory": { "file": "/audio/bgm_victory.mp3", "volume": 0.52, "loop": false, "playbackRate": 1.0 }
+  },
+  "sfx": {
+    "jump": { "file": "/audio/se_jump.mp3", "volume": 0.65 },
+    "stomp": { "file": "/audio/se_stomp.ogg", "volume": 0.72 },
+    "hipDropStart": null,
+    "hipDropSlam": { "file": "/audio/se_hipdrop_slam.ogg", "volume": 0.78 },
+    "coin": { "file": "/audio/se_coin.ogg", "volume": 0.62 },
+    "star": null,
+    "trampoline": { "file": "/audio/se_spring.ogg", "volume": 0.75 },
+    "cushion": { "file": "/audio/se_cushion.ogg", "volume": 0.68 },
+    "blockHit": { "file": "/audio/se_block_hit.ogg", "volume": 0.68 },
+    "boxBreak": { "file": "/audio/se_box_break.ogg", "volume": 0.75 },
+    "damage": null,
+    "feverStart": null,
+    "tutorialCheck": { "file": "/audio/se_tutorial_check.mp3", "volume": 0.75 },
+    "bossSlam": { "file": "/audio/se_boss_slam.ogg", "volume": 0.82 },
+    "bossHit": { "file": "/audio/se_boss_hit.ogg", "volume": 0.85 },
+    "bossDefeat": { "file": "/audio/se_boss_defeat.mp3", "volume": 0.85 },
+    "chestOpen": null,
+    "uiClick": { "file": "/audio/se_ui_click.ogg", "volume": 0.6 }
+  }
+}
